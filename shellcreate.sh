@@ -1,3 +1,4 @@
+#Hackthebox Shell Script
 #!/bin/bash
 host=$(/sbin/ifconfig tun0 | grep "10.10." | awk '{print $2}')
 echo What port would you like to use?
