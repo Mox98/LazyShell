@@ -1,4 +1,3 @@
-# Scripts
-Scripts to make my life easier
+# LazyShell
 
-Shellcreate.sh takes the inet from your tun0 and pastes it in pentest monkey shells. 
+A simple script that generates reverse shells using your preffered interface and port.
