@@ -1,4 +1,4 @@
-#Hackthebox Shell Script
+#Lazy Shell Script
 #!/bin/bash
 host=$(/sbin/ifconfig tun0 | grep "10.10." | awk '{print $2}')
 printf "0xAtti lazy shell\n"
