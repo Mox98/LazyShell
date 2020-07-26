@@ -63,10 +63,10 @@ exit
 fi
 
 
-#settings for invalid choises
+#settings for invalid choises - YOU WILL NEED TO EDIT THIS DEPENDING ON WHERE YOU'VE STORED THIS FILE
 if [ $input -ge "4" ]; then
 printf "Please enter a valid option\n"
-sh ~/.config/scripts/shelltest.sh
+sh ~/.config/scripts/shell.sh
 fi
 
 
