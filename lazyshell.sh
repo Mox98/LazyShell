@@ -15,7 +15,7 @@ printf "
 ╔══════════════╗
    Lazy Shell
 ╚══════════════╝\n"
-printf "Author: 0xAtti\n"
+printf "Author: roman1\n"
 
 
 #menu options
