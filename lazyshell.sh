@@ -63,7 +63,7 @@ exit
 fi
 
 
-#settings for invalid choises - YOU WILL NEED TO EDIT THIS DEPENDING ON WHERE YOU'VE STORED THIS FILE
+#restart
 if [ $input -ge "4" ]; then
 printf "Please enter a valid option\n"
 sh ~/.config/scripts/lazyshell.sh
